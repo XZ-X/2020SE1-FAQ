@@ -24,3 +24,5 @@
 - SEEC相关系统开发组欢迎各位同学们；
 - 南京大学软件所欢迎同学们；
 - ~~欢迎来 [YDJSIR](https://ydjsir.com.cn/) 的博客还有 [ABN-Team](https://abn-team.top/) 的首页看看~~
+- 欢迎对科研/搞点不一样的事情/读博感兴趣的同学们戳XXZ @XZ-X (xiangzhex@gmail.com) 了解进组的机会！
+
